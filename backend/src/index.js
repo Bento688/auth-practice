@@ -17,7 +17,7 @@ app.use("/api/auth", authRoutes);
 
 app.get("/", (req, res) => {
   res.json({
-    message: "HEllo!",
+    message: "HEllo0!",
   });
 });
 
